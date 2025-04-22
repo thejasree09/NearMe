@@ -133,7 +133,7 @@ Execute the programs and publish them.
 
 ## OUTPUT
 
-![Screenshot 2025-04-22 161758](https://github.com/user-attachments/assets/b5742088-71bb-4a3b-a20c-abced8cd786c)
+![image](https://github.com/user-attachments/assets/dbc3c35e-a837-4879-a664-a6040883b82d)
 ![Screenshot 2025-04-16 094734](https://github.com/user-attachments/assets/93c56422-6502-4350-8cfb-1f43d053f460)
 ![Screenshot 2025-04-16 094304](https://github.com/user-attachments/assets/c4d02ac5-6937-46e0-9fc8-c6844c70cd7b)
 ![Screenshot 2025-04-16 094429](https://github.com/user-attachments/assets/5a304510-9210-4a79-ba8b-1415822bcc62)
